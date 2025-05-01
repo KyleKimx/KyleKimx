@@ -1,7 +1,7 @@
 Hello I'm **Byounguk(Kyle) Kim**. 👋
 <br/> I'm from Rutgers university taking BS Computer Science.
 <br/> I'm Interesting AI/ML , Cloud, Back-end
-<br/> **AWS & 100day python ~ing**
+<br/> **AWS & python studying**
 
 <h2>My tech stack </h2>
 
