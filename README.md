@@ -36,8 +36,11 @@
 
 
 **Frameworks & Libraries**  
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?&style=flat&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=flat&logo=scikit-learn&logoColor=black" />
+<img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat&logo=react&logoColor=black" />
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
