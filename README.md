@@ -44,18 +44,20 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
-<!---
+
 ---
 
 
-## 📁 What's Inside
+## 📁 Inside
 | Project | Description | Tech Stack |
 |---------|------------|------------|
-| 🛰️ **Weather Information System** | A real-time weather system using FreeRTOS. | FreeRTOS, UART, C |
+| **Pose Landmark Extraction & Analytics ** | •	Implemented a video pose analysis pipeline using MediaPipe Pose Landmarker . | Python, MediaPipe, OpenCV, NumPy, SciPy, MATLAB |
+<!---
 | 🚗 **Vehicle Control Module** | Intelligent module for vehicle control using AI and CAN communication. | C++, CAN, Deep Learning |
 | 🤖 **Autonomous RC Car** | A small-scale autonomous vehicle using Python and embedded protocols. | Python, UART, I2C, OpenCV, ROS2 |
 
 ---
+
 
 
 ## 📫 Contact Me
