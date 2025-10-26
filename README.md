@@ -51,7 +51,8 @@
 ## 📁 Inside
 | Project | Description | Tech Stack |
 |---------|------------|------------|
-| **Pose Landmark Extraction & Analytics ** | •	Implemented a video pose analysis pipeline using MediaPipe Pose Landmarker . | Python, MediaPipe, OpenCV, NumPy, SciPy, MATLAB |
+| **Pose Landmark Extraction & Analytics** | Implemented a video pose analysis pipeline using MediaPipe Pose Landmarker. | Python, MediaPipe, OpenCV, NumPy, SciPy, MATLAB |
+
 <!---
 | 🚗 **Vehicle Control Module** | Intelligent module for vehicle control using AI and CAN communication. | C++, CAN, Deep Learning |
 | 🤖 **Autonomous RC Car** | A small-scale autonomous vehicle using Python and embedded protocols. | Python, UART, I2C, OpenCV, ROS2 |
